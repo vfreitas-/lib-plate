@@ -8,8 +8,6 @@ rollup.plugins[0] = rollupCoverage({
 })
 
 // Karma configuration
-// Generated on Wed Jan 18 2017 23:39:45 GMT-0200 (BRST)
-
 module.exports = function(config) {
     let tmp = {
 
